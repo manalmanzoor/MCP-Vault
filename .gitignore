@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local data — your actual notes and bookmarks. Personal, not for sharing.
+vault.db
+vault.db-journal
+vault.db-wal
+vault.db-shm
+
+# OS cruft
+Thumbs.db
+.DS_Store
