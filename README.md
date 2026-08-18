@@ -83,6 +83,22 @@ listed.
 Your data lives in `vault.db` right next to `server.py` — it's just a SQLite file, so you
 can open it with any SQLite browser if you want to poke at it directly.
 
+## Screenshots
+
+Vault running inside Claude Desktop.
+
+<!--
+Drop your image files into the screenshots/ folder, then uncomment and edit
+the lines below. The text in square brackets is the caption shown if the
+image fails to load, so keep it descriptive.
+
+![Saving a note](screenshots/save-note.png)
+
+![Listing everything tagged todo](screenshots/list-by-tag.png)
+
+![Searching notes](screenshots/search.png)
+-->
+
 ## Notes
 
 - Every tool's docstring is what Claude reads to decide when to call it — if you rename
