@@ -85,19 +85,11 @@ can open it with any SQLite browser if you want to poke at it directly.
 
 ## Screenshots
 
-Vault running inside Claude Desktop.
+<img width="455" height="237" alt="image" src="https://github.com/user-attachments/assets/a2372dc4-3110-426e-b20e-ea9b3b78eff2" />
 
-<!--
-Drop your image files into the screenshots/ folder, then uncomment and edit
-the lines below. The text in square brackets is the caption shown if the
-image fails to load, so keep it descriptive.
+<img width="456" height="214" alt="image" src="https://github.com/user-attachments/assets/74e7ee94-65fd-4b58-afc6-8dbe9a09d9d2" />
 
-![Saving a note](screenshots/save-note.png)
 
-![Listing everything tagged todo](screenshots/list-by-tag.png)
-
-![Searching notes](screenshots/search.png)
--->
 
 ## Notes
 
