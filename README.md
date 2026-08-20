@@ -97,3 +97,10 @@ can open it with any SQLite browser if you want to poke at it directly.
   or repurpose a tool, keep the docstring accurate, that's the whole interface.
 - If Claude Desktop doesn't pick up the server, check `%APPDATA%\Claude\logs\` for errors —
   usually it's a wrong path in the config.
+ ## 👩‍💻 Author
+
+**Manal Manzoor**<br>
+Software Engineering Student<br>
+COMSATS University Islamabad, Wah Campus
+
+GitHub: [@manalmanzoor](https://github.com/manalmanzoor)
